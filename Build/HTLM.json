@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
 "productName": "Life",
-"productVersion": "0.1",
+"productVersion": "0.2.0",
 "dataUrl": "HTLM.data.unityweb",
 "wasmCodeUrl": "HTLM.wasm.code.unityweb",
 "wasmFrameworkUrl": "HTLM.wasm.framework.unityweb",
